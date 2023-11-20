@@ -29,8 +29,8 @@ Get the project fired up and start using it as a user would. Try to go through t
 - [x] Download project dependencies by running `npm install`
 - [x] Start up the app using `npm start`
 
-* [ ] With each saved change in your editor, the test runner will re-run all the tests
-* [ ] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
+* [x] With each saved change in your editor, the test runner will re-run all the tests
+* [x] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
 
 ### Task 2: Project Requirements
 
@@ -61,7 +61,7 @@ Get the project fired up and start using it as a user would. Try to go through t
 - [x] Rebuild or copy the show test data element as used in the previous set of tests.
 - [x] Test that when the fetch button is pressed, the show component will display. Make sure to account for the api call and change of state in building your test.
 - [x] Test that when the fetch button is pressed, the amount of select options rendered is equal to the amount of seasons in your test data.
-- [ ] Notice the optional functional prop passed in to the Display component client code. Test that when the fetch button is pressed, this function is called.
+- [x] Notice the optional functional prop passed in to the Display component client code. Test that when the fetch button is pressed, this function is called.
 
 ### Stretch goals
 
