@@ -63,3 +63,7 @@ test('displayFunc is called when fetch button is pressed', async () => {
         expect(displayFunc).toHaveBeenCalled();
     })
 })
+
+
+
+
